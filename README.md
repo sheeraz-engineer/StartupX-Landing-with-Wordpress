@@ -38,10 +38,7 @@ git clone https://github.com/your-username/startupx-landing-page.git
 
 3. Customize content and assets as needed.
 
-## 🌐 Live Demo
-
-Coming soon on GitHub Pages...
-
----
-
-© 2025 StartupX. All rights reserved.
+### 👨‍💻 Author
+**Sheeraz Ahmed**  
+Frontend Web Developer  
+📫 [LinkedIn](https://www.linkedin.com/in/sheeraz-ahmed-28317436b/) | [GitHub](https://github.com/sheeraz-engineer).
